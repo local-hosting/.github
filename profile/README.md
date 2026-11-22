@@ -7,10 +7,11 @@ Our vision is hyperlocal AI built by and for communities—technology that ackno
 
 ## Our Sponsors
 We are *extremely* thankful for support from the following organizations that offer us the chance to work for social good without compromise:
-- **[Mozilla Foundation & NSF](https://medium.com/read-write-participate/an-internet-that-fits-on-your-keychain-ae582d8bcd48)** — WINS Challenge
+- **[Mozilla Foundation & NSF](https://medium.com/read-write-participate/an-internet-that-fits-on-your-keychain-ae582d8bcd48)** — Wireless Innovation (WINS Challenge)
 - **[United Nations & IBM](https://callforcode.org/)** — Call for Code
-- **[MacArthur Foundation](https://www.macfound.org/media/article_pdfs/info-dmlcomp.pdf)**
-- **[Joyent / NodeJS Foundation](https://nodejs.org/en/blog/community/foundation-benefits-all)** 
+- **[MacArthur Foundation](https://www.macfound.org/media/article_pdfs/info-dmlcomp.pdf)** - Digital Media & Learning Competition
+- **[Joyent](https://nodejs.org/en/blog/community/foundation-benefits-all)** - Docker & NodeJS Innovation Program
+- **[Linux Foundation](https://www.linuxfoundation.org/)** - Call for Code
 
 
 ## Repositories
@@ -37,6 +38,7 @@ Anchored in Brooklyn and Montreal but with global roots, contributors and our te
 - [Matthew Malin](https://www.backstage.com/u/matthewmalin/)
 - [Mitchell Model, PhD](https://www.oreilly.com/pub/au/3752)
 - [Pascal E Fortin, PhD](https://pefortin.com)
+- [Peter Ogden](https://www.oando.studio)
 - [Ron van den Ouweland](https://rhonest.com/about.html)
 - [Subalekha Udayasankar](https://subalekha.com)
 - [Varun Adibhatla](https://www.linkedin.com/in/vr00n)
